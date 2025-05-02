@@ -9,7 +9,7 @@ _Spiritual Songs_ respects your privacy. This privacy policy outlines how we han
 _Spiritual Songs_ **does not collect**, store, or transmit any personal data. The app functions entirely offline.
 
 We do not collect:
-- Your name
+- Your full name
 - Your email address
 - Your location
 - Your device information

@@ -9,7 +9,7 @@ _Chansons Spirituelles_ respecte votre vie privée. Cette politique de confident
 _Chansons Spirituelles_ **ne collecte, ne stocke et ne transmet aucune donnée personnelle**. L’application fonctionne entièrement hors ligne.
 
 Nous ne collectons pas :
-- Votre nom
+- Votre nom complet
 - Votre adresse courriel
 - Votre emplacement
 - Les informations de votre appareil
